@@ -6,6 +6,10 @@ Though not very nicely documented, you may find them useful to analyze your insu
 
 View Read-only Online:
 
+* [FireEye 2015 Family Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/fireeye-insurance-family-2015.ipynb)
+* [FireEye 2015 Individual Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/fireeye-insurance-individual-2015.ipynb)
+* [Wipfli 2014 Family Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/WipfliHealthInsurance2014.ipynb)
+
 
 ### How to run
 
