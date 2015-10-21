@@ -11,6 +11,17 @@ IPython Notebook (Project Jupyter) notebooks I put together to analyze my person
 
 ### How to run
 
+There are two options to run these...
+
+#### Option 1: IPython Notebook installed with dependencies
+
+Install IPython Notebook (Project Jupyter) along with dependencies (TBD), and then you can run:
+
+    ipython3 notebook
+
+
+#### Option 2: Data Science Toolkit
+
 I recommend running these with the [Data Science Toolkit](http://datasciencetoolbox.org/) Vagrant box, which comes with IPython Notebook and the scientific computing stack.
 
 Here are the directions to get the Data Science Toolkit setup:
