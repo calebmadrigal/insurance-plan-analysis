@@ -1,6 +1,6 @@
 # insurance-plan-analysis
 
-IPython Notebook (Project Jupyter) notebooks I put together to analyze my personal insurance options at job. Though not very nicely documented, you may find them useful to analyze your insurance plans as well.
+IPython Notebook (Project Jupyter) notebooks I put together to analyze my personal insurance options. Though not very nicely documented, you may find them useful to analyze your insurance plans as well.
 
 ### View Read-only Online:
 
