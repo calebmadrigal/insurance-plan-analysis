@@ -1,9 +1,11 @@
 # insurance-plan-analysis
 
-IPython Notebook (Project Jupyter) notebooks I put together to analyze my personal insurance options at job. Though not very nicely documented, you may find them useful to analyze your insurance plans as well.
+IPython Notebook (Project Jupyter) notebooks I put together to analyze my personal insurance options. Though not very nicely documented, you may find them useful to analyze your insurance plans as well.
 
 ### View Read-only Online:
 
+* [FireEye 2016 Family Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/fireeye-insurance-family-2016.ipynb)
+* [FireEye 2016 Individual Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/fireeye-insurance-individual-2016.ipynb)
 * [FireEye 2015 Family Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/fireeye-insurance-family-2015.ipynb)
 * [FireEye 2015 Individual Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/fireeye-insurance-individual-2015.ipynb)
 * [Wipfli 2014 Family Plan](http://nbviewer.ipython.org/github/calebmadrigal/insurance-plan-analysis/blob/master/WipfliHealthInsurance2014.ipynb)
